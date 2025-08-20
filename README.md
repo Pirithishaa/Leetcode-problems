@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0202-happy-number](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0202-happy-number) |
 ## Math
 |  |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 | [0135-candy](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0135-candy) |
 ## Greedy
 |  |
@@ -40,4 +42,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0049-group-anagrams) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
