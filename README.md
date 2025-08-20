@@ -74,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pirithishaa/Leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/Pirithishaa/Leetcode-problems/tree/master/1916-find-center-of-star-graph) |
 <!---LeetCode Topics End-->
