@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0202-happy-number) |
 | [0611-valid-triangle-number](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0073-set-matrix-zeroes) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0135-candy) |
