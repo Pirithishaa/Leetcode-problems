@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Pirithishaa/Leetcode-problems/tree/master/2121-find-if-path-exists-in-graph) |
@@ -98,4 +99,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Pirithishaa/Leetcode-problems/tree/master/2121-find-if-path-exists-in-graph) |
+## Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
