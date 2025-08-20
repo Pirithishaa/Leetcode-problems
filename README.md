@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0011-container-with-most-water) |
 | [0202-happy-number](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0611-valid-triangle-number](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0611-valid-triangle-number) |
 ## Dynamic Programming
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0234-palindrome-linked-list](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pirithishaa/Leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
@@ -171,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0682-baseball-game) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
