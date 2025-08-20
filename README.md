@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0202-happy-number](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0202-happy-number) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
 ## Two Pointers
@@ -176,9 +177,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0002-add-two-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
