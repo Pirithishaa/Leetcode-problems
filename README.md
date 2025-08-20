@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0611-valid-triangle-number) |
+| [0682-baseball-game](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pirithishaa/Leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Greedy
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0145-binary-tree-postorder-traversal) |
+| [0682-baseball-game](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0682-baseball-game) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Pirithishaa/Leetcode-problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Monotonic Stack
 |  |
@@ -163,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Pirithishaa/Leetcode-problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
