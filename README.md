@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0871-keys-and-rooms](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Pirithishaa/Leetcode-problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0112-path-sum) |
 | [0547-number-of-provinces](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0547-number-of-provinces) |
+| [0617-merge-two-binary-trees](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0871-keys-and-rooms](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0871-keys-and-rooms) |
 | [2121-find-if-path-exists-in-graph](https://github.com/Pirithishaa/Leetcode-problems/tree/master/2121-find-if-path-exists-in-graph) |
 ## Union Find
@@ -109,10 +111,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0112-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 <!---LeetCode Topics End-->
