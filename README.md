@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0617-merge-two-binary-trees) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0617-merge-two-binary-trees) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -148,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0450-delete-node-in-a-bst](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0450-delete-node-in-a-bst) |
+| [0784-insert-into-a-binary-search-tree](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0784-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
