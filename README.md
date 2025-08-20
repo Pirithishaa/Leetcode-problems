@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0357-count-numbers-with-unique-digits) |
+## Array
+|  |
+| ------- |
+| [0135-candy](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0135-candy) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Pirithishaa/Leetcode-problems/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
